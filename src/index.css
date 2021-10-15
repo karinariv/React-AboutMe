@@ -1,0 +1,29 @@
+.menu {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.row .card {
+    margin: auto auto;
+}
+
+.padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.height {
+    max-height: 460px;
+}
+
+.dark-font {
+    color: black;
+}
+
+.bg-color {
+    background-color: rgba(96, 64, 185, 0.5);
+}
+
+.card-height {
+    height: 240px;
+}
